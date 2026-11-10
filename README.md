@@ -1,8 +1,4 @@
-# programacion_a
-Cuadernillo de ejercicios, prácticas y apuntes de Programación A del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM) en ILERNA.
-
-
-Programación A – ILERNA DAM
+#Programación A – ILERNA DAM
 
 Este repositorio contiene los ejercicios, actividades prácticas y apuntes correspondientes a la asignatura Programación A, del ciclo formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) de ILERNA.
 

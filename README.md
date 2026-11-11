@@ -16,8 +16,7 @@ programacion-a/
 │   ├── ejercicio-02/
 │   └── ...
 │
-└── proyectos/
-    └── ...
+└── 
 ```
 
 ## Contenidos
